@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background: url("backgroud_img.jpg") no-repeat center;
+}
+
+body.a {
+    color: chartreuse;
+}
+
+body.div {
+    color: yellow;
+}
